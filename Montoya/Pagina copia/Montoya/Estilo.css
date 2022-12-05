@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: #1449B4;
+
+}
+h1{
+    color:white;
+    font-size: 20em;
+    text-align: center;
+    position: absolute;
+    top:50%;
+    left: 5%;
+    
+}
+h9{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top:57%;
+    left: 5%;
+}
+button{
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top:65%;
+    left: 12%;
+}
+img{
+    font-size: 20px;
+    height: 85%;
+    text-align: center;
+    position: absolute;
+    top:7%;
+    right: 5%;
+}
+
+
+    
+
